@@ -1,4 +1,19 @@
-h1 {
-    font-family: 'Sniglet', sans-serif;
+body {
+    background-color: black;
+}
+
+.greeting {
     text-align: center;
+    font-size: 30px;
+    font-family: 'Sniglet', sans-serif;
+    color: #FFFFFF;
+
+    height: 310px;
+
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
